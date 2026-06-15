@@ -1,0 +1,7 @@
+prophet
+scikit-learn
+pymongo
+pandas
+python-dotenv
+numpy
+plotly
