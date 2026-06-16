@@ -259,19 +259,11 @@ SmartTax includes a separate analytics platform designed for banks and financial
 
 ### Report 3 — Goal Analytics
 
-![Goal Analytics]([screenshots/bi-goals.png](https://github.com/user-attachments/assets/a1c61c69-210d-4cd7-80f5-8c06820ed441))
+![Goal Analytics]((https://github.com/user-attachments/assets/a1c61c69-210d-4cd7-80f5-8c06820ed441))
 
 **What banks can learn:** goal completion rates, savings behavior, on-track vs off-track customers.
 
 **Business use case:** identify customers who may benefit from savings nudges, automated recurring deposits, and financial planning products.
-
-### Report 4 — ML Override Analytics
-
-![Override Analytics](screenshots/bi-overrides.png)
-
-**What banks can learn:** which recommendations users reject, which categories require manual adjustment, customer trust in AI recommendations.
-
-**Business use case:** improves recommendation engines and personalization models.
 
 ---
 
