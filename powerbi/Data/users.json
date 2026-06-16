@@ -1,0 +1,1602 @@
+[
+  {
+    "customer_id": "SYN001",
+    "age": 28,
+    "occupation": "student",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN002",
+    "age": 27,
+    "occupation": "self-employed",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN003",
+    "age": 22,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN004",
+    "age": 22,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN005",
+    "age": 55,
+    "occupation": "business",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN006",
+    "age": 21,
+    "occupation": "salaried",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN007",
+    "age": 34,
+    "occupation": "freelancer",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN008",
+    "age": 43,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN009",
+    "age": 55,
+    "occupation": "student",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN010",
+    "age": 44,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN011",
+    "age": 35,
+    "occupation": "freelancer",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN012",
+    "age": 45,
+    "occupation": "freelancer",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN013",
+    "age": 31,
+    "occupation": "freelancer",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN014",
+    "age": 25,
+    "occupation": "self-employed",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN015",
+    "age": 31,
+    "occupation": "business",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN016",
+    "age": 35,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN017",
+    "age": 41,
+    "occupation": "business",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN018",
+    "age": 41,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN019",
+    "age": 50,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN020",
+    "age": 55,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN021",
+    "age": 35,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN022",
+    "age": 28,
+    "occupation": "salaried",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN023",
+    "age": 25,
+    "occupation": "business",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN024",
+    "age": 54,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN025",
+    "age": 55,
+    "occupation": "freelancer",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN026",
+    "age": 31,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN027",
+    "age": 37,
+    "occupation": "self-employed",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN028",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN029",
+    "age": 31,
+    "occupation": "self-employed",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN030",
+    "age": 22,
+    "occupation": "student",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN031",
+    "age": 36,
+    "occupation": "self-employed",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN032",
+    "age": 25,
+    "occupation": "self-employed",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN033",
+    "age": 31,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN034",
+    "age": 33,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN035",
+    "age": 49,
+    "occupation": "self-employed",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN036",
+    "age": 25,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN037",
+    "age": 35,
+    "occupation": "student",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN038",
+    "age": 35,
+    "occupation": "student",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN039",
+    "age": 36,
+    "occupation": "freelancer",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN040",
+    "age": 51,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN041",
+    "age": 27,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN042",
+    "age": 24,
+    "occupation": "student",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN043",
+    "age": 27,
+    "occupation": "salaried",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN044",
+    "age": 29,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN045",
+    "age": 25,
+    "occupation": "business",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN046",
+    "age": 55,
+    "occupation": "student",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN047",
+    "age": 52,
+    "occupation": "business",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN048",
+    "age": 31,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN049",
+    "age": 50,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN050",
+    "age": 52,
+    "occupation": "salaried",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN051",
+    "age": 24,
+    "occupation": "self-employed",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN052",
+    "age": 24,
+    "occupation": "self-employed",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN053",
+    "age": 54,
+    "occupation": "salaried",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN054",
+    "age": 32,
+    "occupation": "student",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN055",
+    "age": 46,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN056",
+    "age": 26,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN057",
+    "age": 41,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN058",
+    "age": 40,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN059",
+    "age": 27,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN060",
+    "age": 43,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN061",
+    "age": 49,
+    "occupation": "self-employed",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN062",
+    "age": 54,
+    "occupation": "student",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN063",
+    "age": 29,
+    "occupation": "freelancer",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN064",
+    "age": 30,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN065",
+    "age": 42,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN066",
+    "age": 24,
+    "occupation": "student",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN067",
+    "age": 42,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN068",
+    "age": 48,
+    "occupation": "self-employed",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN069",
+    "age": 30,
+    "occupation": "self-employed",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN070",
+    "age": 30,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN071",
+    "age": 23,
+    "occupation": "freelancer",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN072",
+    "age": 27,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN073",
+    "age": 36,
+    "occupation": "salaried",
+    "region": "Delhi",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN074",
+    "age": 42,
+    "occupation": "business",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN075",
+    "age": 27,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN076",
+    "age": 50,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN077",
+    "age": 33,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN078",
+    "age": 38,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN079",
+    "age": 55,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN080",
+    "age": 37,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN081",
+    "age": 48,
+    "occupation": "freelancer",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN082",
+    "age": 53,
+    "occupation": "student",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN083",
+    "age": 23,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN084",
+    "age": 55,
+    "occupation": "salaried",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN085",
+    "age": 42,
+    "occupation": "self-employed",
+    "region": "Gujarat",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN086",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN087",
+    "age": 46,
+    "occupation": "freelancer",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN088",
+    "age": 45,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN089",
+    "age": 21,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN090",
+    "age": 41,
+    "occupation": "business",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN091",
+    "age": 53,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN092",
+    "age": 53,
+    "occupation": "self-employed",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN093",
+    "age": 36,
+    "occupation": "freelancer",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN094",
+    "age": 23,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN095",
+    "age": 25,
+    "occupation": "business",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN096",
+    "age": 45,
+    "occupation": "business",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN097",
+    "age": 21,
+    "occupation": "student",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN098",
+    "age": 54,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN099",
+    "age": 28,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN100",
+    "age": 41,
+    "occupation": "business",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN101",
+    "age": 31,
+    "occupation": "business",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN102",
+    "age": 38,
+    "occupation": "self-employed",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN103",
+    "age": 49,
+    "occupation": "student",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN104",
+    "age": 41,
+    "occupation": "self-employed",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN105",
+    "age": 45,
+    "occupation": "salaried",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN106",
+    "age": 42,
+    "occupation": "self-employed",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN107",
+    "age": 47,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN108",
+    "age": 21,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN109",
+    "age": 47,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN110",
+    "age": 48,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN111",
+    "age": 46,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN112",
+    "age": 55,
+    "occupation": "student",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN113",
+    "age": 22,
+    "occupation": "student",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN114",
+    "age": 32,
+    "occupation": "student",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN115",
+    "age": 50,
+    "occupation": "freelancer",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN116",
+    "age": 47,
+    "occupation": "freelancer",
+    "region": "Karnataka",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN117",
+    "age": 55,
+    "occupation": "student",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN118",
+    "age": 23,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN119",
+    "age": 30,
+    "occupation": "salaried",
+    "region": "Delhi",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN120",
+    "age": 34,
+    "occupation": "business",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN121",
+    "age": 28,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN122",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN123",
+    "age": 33,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN124",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN125",
+    "age": 43,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN126",
+    "age": 53,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN127",
+    "age": 27,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN128",
+    "age": 50,
+    "occupation": "salaried",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN129",
+    "age": 38,
+    "occupation": "self-employed",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN130",
+    "age": 38,
+    "occupation": "freelancer",
+    "region": "Tamil Nadu",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN131",
+    "age": 49,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN132",
+    "age": 45,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN133",
+    "age": 32,
+    "occupation": "business",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN134",
+    "age": 42,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN135",
+    "age": 33,
+    "occupation": "student",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN136",
+    "age": 36,
+    "occupation": "business",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN137",
+    "age": 26,
+    "occupation": "freelancer",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN138",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN139",
+    "age": 43,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN140",
+    "age": 38,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN141",
+    "age": 33,
+    "occupation": "freelancer",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN142",
+    "age": 32,
+    "occupation": "salaried",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN143",
+    "age": 54,
+    "occupation": "self-employed",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN144",
+    "age": 39,
+    "occupation": "salaried",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN145",
+    "age": 55,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN146",
+    "age": 39,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN147",
+    "age": 39,
+    "occupation": "business",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN148",
+    "age": 24,
+    "occupation": "freelancer",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN149",
+    "age": 46,
+    "occupation": "business",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN150",
+    "age": 24,
+    "occupation": "salaried",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN151",
+    "age": 26,
+    "occupation": "salaried",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN152",
+    "age": 35,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN153",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN154",
+    "age": 24,
+    "occupation": "self-employed",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN155",
+    "age": 37,
+    "occupation": "student",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN156",
+    "age": 25,
+    "occupation": "salaried",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN157",
+    "age": 51,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN158",
+    "age": 39,
+    "occupation": "business",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN159",
+    "age": 37,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN160",
+    "age": 35,
+    "occupation": "salaried",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN161",
+    "age": 31,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN162",
+    "age": 40,
+    "occupation": "business",
+    "region": "Telangana",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN163",
+    "age": 49,
+    "occupation": "student",
+    "region": "Maharashtra",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN164",
+    "age": 37,
+    "occupation": "student",
+    "region": "Karnataka",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN165",
+    "age": 22,
+    "occupation": "freelancer",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN166",
+    "age": 49,
+    "occupation": "freelancer",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN167",
+    "age": 52,
+    "occupation": "student",
+    "region": "West Bengal",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN168",
+    "age": 41,
+    "occupation": "student",
+    "region": "Delhi",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN169",
+    "age": 52,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN170",
+    "age": 26,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN171",
+    "age": 46,
+    "occupation": "self-employed",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN172",
+    "age": 50,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN173",
+    "age": 52,
+    "occupation": "business",
+    "region": "Maharashtra",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN174",
+    "age": 29,
+    "occupation": "freelancer",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN175",
+    "age": 22,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN176",
+    "age": 21,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN177",
+    "age": 28,
+    "occupation": "business",
+    "region": "Karnataka",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN178",
+    "age": 52,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN179",
+    "age": 51,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN180",
+    "age": 33,
+    "occupation": "self-employed",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN181",
+    "age": 47,
+    "occupation": "freelancer",
+    "region": "Telangana",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN182",
+    "age": 40,
+    "occupation": "self-employed",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN183",
+    "age": 51,
+    "occupation": "freelancer",
+    "region": "Gujarat",
+    "income_bracket": "high",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN184",
+    "age": 45,
+    "occupation": "business",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN185",
+    "age": 36,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN186",
+    "age": 47,
+    "occupation": "student",
+    "region": "Gujarat",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN187",
+    "age": 45,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN188",
+    "age": 29,
+    "occupation": "self-employed",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN189",
+    "age": 49,
+    "occupation": "student",
+    "region": "West Bengal",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN190",
+    "age": 47,
+    "occupation": "salaried",
+    "region": "Karnataka",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN191",
+    "age": 37,
+    "occupation": "freelancer",
+    "region": "Rajasthan",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN192",
+    "age": 42,
+    "occupation": "self-employed",
+    "region": "Rajasthan",
+    "income_bracket": "mid",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN193",
+    "age": 52,
+    "occupation": "self-employed",
+    "region": "Maharashtra",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN194",
+    "age": 39,
+    "occupation": "salaried",
+    "region": "Karnataka",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN195",
+    "age": 27,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "high",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN196",
+    "age": 22,
+    "occupation": "student",
+    "region": "Gujarat",
+    "income_bracket": "low",
+    "segment": "conservative"
+  },
+  {
+    "customer_id": "SYN197",
+    "age": 44,
+    "occupation": "business",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN198",
+    "age": 32,
+    "occupation": "salaried",
+    "region": "Delhi",
+    "income_bracket": "low",
+    "segment": "moderate"
+  },
+  {
+    "customer_id": "SYN199",
+    "age": 45,
+    "occupation": "self-employed",
+    "region": "Tamil Nadu",
+    "income_bracket": "mid",
+    "segment": "aggressive"
+  },
+  {
+    "customer_id": "SYN200",
+    "age": 30,
+    "occupation": "salaried",
+    "region": "West Bengal",
+    "income_bracket": "high",
+    "segment": "conservative"
+  }
+]
