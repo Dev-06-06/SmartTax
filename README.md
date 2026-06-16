@@ -243,7 +243,7 @@ SmartTax includes a separate analytics platform designed for banks and financial
 
 ### Report 1 — Spending Analytics
 
-![Spending Analytics](screenshots/bi-spending.png)
+![Spending Analytics](https://github.com/user-attachments/assets/fc7067de-c5c1-4f7e-81b8-0a8f1c5a3663)
 
 **What banks can learn:** most popular spending categories, highest-value categories, customer transaction behavior, revenue opportunities, and seasonal spending trends.
 
@@ -251,7 +251,7 @@ SmartTax includes a separate analytics platform designed for banks and financial
 
 ### Report 2 — Customer Segmentation
 
-![Customer Segmentation](screenshots/bi-segments.png)
+![Customer Segmentation](https://github.com/user-attachments/assets/e60d081a-f8f6-40c6-a936-78215e1fb5cc)
 
 **What banks can learn:** distribution of customer segments, spending intensity, behavioral differences.
 
@@ -259,7 +259,7 @@ SmartTax includes a separate analytics platform designed for banks and financial
 
 ### Report 3 — Goal Analytics
 
-![Goal Analytics](screenshots/bi-goals.png)
+![Goal Analytics]([screenshots/bi-goals.png](https://github.com/user-attachments/assets/a1c61c69-210d-4cd7-80f5-8c06820ed441))
 
 **What banks can learn:** goal completion rates, savings behavior, on-track vs off-track customers.
 
