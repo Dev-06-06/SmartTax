@@ -1,6 +1,6 @@
 # SmartTax
 
-> Goal-driven fintech platform that transforms everyday UPI transactions into automated micro-savings using machine learning-powered tax recommendations.
+> > SmartTax is a full-stack fintech analytics platform that converts everyday transactions into goal-based savings using machine learning-powered recommendations, while providing banks with actionable customer insights through business intelligence dashboards.
 
 <table>
 <tr>
