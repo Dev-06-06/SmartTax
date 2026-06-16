@@ -259,7 +259,7 @@ SmartTax includes a separate analytics platform designed for banks and financial
 
 ### Report 3 — Goal Analytics
 
-![Goal Analytics]((https://github.com/user-attachments/assets/a1c61c69-210d-4cd7-80f5-8c06820ed441))
+![Goal Analytics](https://github.com/user-attachments/assets/a1c61c69-210d-4cd7-80f5-8c06820ed441)
 
 **What banks can learn:** goal completion rates, savings behavior, on-track vs off-track customers.
 
