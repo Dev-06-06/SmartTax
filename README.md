@@ -2,7 +2,9 @@
 
 > Goal-driven fintech platform that transforms everyday UPI transactions into automated micro-savings using machine learning-powered tax recommendations.
 
-
+![Spending Analytics](https://github.com/user-attachments/assets/fc7067de-c5c1-4f7e-81b8-0a8f1c5a3663)
+![Customer Segmentation](https://github.com/user-attachments/assets/e60d081a-f8f6-40c6-a936-78215e1fb5cc)
+![Goal Analytics](https://github.com/user-attachments/assets/a1c61c69-210d-4cd7-80f5-8c06820ed441)
 
 ## Table of Contents
 
@@ -13,7 +15,6 @@
 - [Data Pipeline](#data-pipeline)
 - [Machine Learning Pipeline](#machine-learning-pipeline)
 - [API Reference](#api-reference)
-- [Screenshots](#screenshots)
 - [Business Intelligence Dashboards](#business-intelligence-dashboards)
 - [Strategic Value for Banks](#strategic-value-for-banks)
 - [Project Structure](#project-structure)
@@ -112,7 +113,6 @@ SmartTax addresses both challenges through predictive analytics and goal-driven 
 | Backend | Flask |
 | Frontend | React + Vite |
 | BI | Power BI |
-
 
 ---
 
@@ -235,7 +235,6 @@ GET /api/insights/overrides
 ```
 
 ---
-
 
 ## Business Intelligence Dashboards
 
